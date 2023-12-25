@@ -1,0 +1,6 @@
+
+**/*.tsstate
+**/*.tsstate*
+**/*.tsstate
+**/*.terraform.tfstate.backup
+**/*.terraform.lock.*
